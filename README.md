@@ -4,7 +4,7 @@ This repo contains codes for fine tuning ResNet50 on multi-label image dataset
 * Python
 * Pytorch
 * Matplotlib
-### Dataset:
+### Tập dữ liệu:
 Bộ dữ liệu gồm hơn 300 ảnh (250 cho tập huấn luyến và phần còn lại cho tập kiểm thử) về các địa điểm du lịch ở Hồ Gươm và Hồ Tây. Các hình ảnh được chia thành 2 khu vực Hồ Gươm và Hồ Tây cùng được gán đa nhãn như sau:
 HoGuom : HG,
 HoTay : HT,
