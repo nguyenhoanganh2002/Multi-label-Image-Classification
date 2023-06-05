@@ -20,7 +20,7 @@ CongVienNuoc : CVN
 * Tập kiểm thử: https://drive.google.com/drive/folders/105hB6_wPCV_ztkDrEMcKbEKZjbYmO1n2?usp=sharing
 ### Tinh chỉnh lại mô hình Resnet50 sao cho phù hợp với bài toán
 ![image](https://github.com/nguyenhoanganh2002/Multi-label-Image-Classification/assets/79850337/fb416a5f-3eb4-4ad6-ba7e-1d761542dfa5)
-### Kết quả: mô hình đạt độ chính xác nhị phân 96.5% (binary accuracy) trên tập kiểm thử 
+### Kết quả: mô hình đạt độ chính xác nhị phân 97% (binary accuracy) trên tập kiểm thử 
 ![image](https://github.com/nguyenhoanganh2002/Multi-label-Image-Classification/assets/79850337/a0b1acb5-ed7c-4147-b0ec-6e7514479755)
 * Chạy thử mô hình:
 
